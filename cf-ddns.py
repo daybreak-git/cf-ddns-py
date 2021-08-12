@@ -3,12 +3,12 @@ import CloudFlare
 import requests
 # ==========================================================#
 #   Description: 自建Python版基于cloudflareAPI的DDNS      
-#   Version: 3.2                                    
+#   Version: 1.0                                   
 #   Author: 蜘蛛子                                 
 #   Blog：https://www.zhizhuzi.org                      
 #   Telegram: https://t.me/Zhizhuzi                     
 #   Github: https://github.com/ZhizhuziQAQ/instance      
-#   Latest Update: Fri 30 Jul 2021 09:20:55 AM CST         
+#   Latest Update: Thu Aug 12 21:49:29 CST 2021         
 # ==========================================================#
 
 headers = {
