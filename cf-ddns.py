@@ -5,7 +5,7 @@ import requests
 #   Description: 自建Python版基于cloudflareAPI的DDNS      
 #   Version: 1.0                                   
 #   Author: 蜘蛛子                                 
-#   Blog：https://www.zhizhuzi.org                      
+#   Blog：                    
 #   Telegram: https://t.me/Zhizhuzi                     
 #   Github: https://github.com/ZhizhuziQAQ/instance      
 #   Latest Update: Thu Aug 12 21:49:29 CST 2021         
